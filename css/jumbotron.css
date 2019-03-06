@@ -1,0 +1,63 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 0px;
+  padding-bottom: 20px;
+  background-image: url('../img/darkness.png');
+}
+.logo{
+	color: #FFF;
+	font-size: 3em;
+	margin-top: 15px;
+}
+.logo a:link { color: #FFF; text-decoration: none; }
+.logo a:active {color: #FFF; text-decoration: none;} 
+.logo a:visited {color: #FFF; text-decoration: none;} 
+.logo a:hover {color: #FFF; text-decoration: none; }
+
+
+.top-mid{
+	color: #FFF;
+	margin-top: 25px;
+}
+.top-mid a:link { color: #FFF; text-decoration: underline; margin-left: 12px; margin-right: 12px; }
+.top-mid a:active {color: #FFF; text-decoration: underline; margin-left: 12px; margin-right: 12px;} 
+.top-mid a:visited {color: #FFF; text-decoration: underline; margin-left: 12px; margin-right: 12px;} 
+.top-mid a:hover {color: #FFF; text-decoration: underline; margin-left: 12px; margin-right: 12px; }
+
+.top-rhs{
+	color: #FFF;
+	margin-top: 15px;
+	text-align: right;
+}
+#btm_nav{
+	margin-top: 36px;
+	margin-bottom: 36px;
+	text-align: center;
+}
+#btm_nav a:link {  margin-left: 12px; margin-right: 12px; }
+#btm_nav a:active { margin-left: 12px; margin-right: 12px;} 
+#btm_nav a:visited { margin-left: 12px; margin-right: 12px;} 
+#btm_nav a:hover { margin-left: 12px; margin-right: 12px; }
+
+
+
+.roundbtm{
+	border-bottom-left-radius: 7px;
+	border-bottom-right-radius: 7px;
+}
+
+.dctop{
+	height: 80px;
+	background-color: black;
+}
+.stage{
+	min-height: 600px;
+}
+
+#blog-view{
+	background-color: blue;
+}
+
+
+
+
