@@ -142,5 +142,4 @@ if($big_pic!=''){ ?>
 
 		</div>
 	</div><!--/span-->
-
-			</div><!--/row-->
+</div><!--/row-->
